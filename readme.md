@@ -21,6 +21,7 @@
 | DarkYellow.zip    | 暗黄高清小标 | Monospace        | 小小论坛                | thXnder             |
 | DOS.zip           | DOS          | Terminal         | thXnder                 | thXnder             |
 | Fragrant.zip      | 芳味         | Monospace        | 多多输入法              | thXnder             |
+| Git.zip           | git          | Monospace        |                         |                     |
 | GreenCrystal.zip  | 绿晶莹       | SimSun           | 搜狗输入法              | 小小论坛@wgxds      |
 | GreenFlora.zip    | 绿花藤       | SimSun           | 搜狗输入法              | 小小论坛@vbncv      |
 | HibaraAiBunny.zip | 灰原哀兔女郎 | Monospace        | 萌娘资源站              | thXnder             |
@@ -59,6 +60,10 @@
 参考[教程](https://xkinput.gitee.io/xxxk-help/#/develop-skin-pc)制作自己的皮肤，并贡献到本项目。
 
 ##  更新记录
+
+##### 20201219
+
+* 新增：Git
 
 ##### 20180826
 
